@@ -51,10 +51,11 @@ Your data stays available anytime, anywhere.
 ## 📸 Screenshots
 
 <p align="center">
-  <img width="220" src="https://github.com/user-attachments/assets/7c4c9bf3-fa65-49ec-af8e-b4004578b9b8" />
-  <img width="220" src="https://github.com/user-attachments/assets/c9802431-b03c-4d35-bea1-5c03d8c4ce82" />
-  <img width="220" src="https://github.com/user-attachments/assets/e51f502c-bbc7-43a1-99db-a16ef1ce6514" />
-  <img width="220" src="https://github.com/user-attachments/assets/2b45061d-2e0f-4897-8308-cc24ffdfd609" />
+<img width="220" height="1484" alt="1" src="https://github.com/user-attachments/assets/b73c5c11-0e4c-4199-80c9-29780e976b4c" />
+<img width="220" height="1484" alt="2" src="https://github.com/user-attachments/assets/0b432c33-504f-4a75-9b21-6ff06f6fc937" />
+<img width="220" height="1484" alt="3" src="https://github.com/user-attachments/assets/57111809-6d66-451f-a4f1-6e263716c255" />
+<img width="220" height="1485" alt="4" src="https://github.com/user-attachments/assets/aad0e013-dd2d-4ce4-8cae-75199acd2afb" />
+
 </p>
 
 
