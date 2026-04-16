@@ -92,7 +92,7 @@ https://expo.dev/accounts/vedantawachar22/projects/StudyFlowMobile/builds/a43d25
 ### Installation
 
 ```bash
-git clone YOUR_REPO_LINK
+git clone https://github.com/Vedant2426/StudyFlow_mobile-application
 cd studyflow-mobile
 npm install
 npx expo start
